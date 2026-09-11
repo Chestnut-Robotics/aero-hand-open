@@ -6,7 +6,7 @@ depend on access to the private `aero-open-firmware` repository.
 
 ## Provenance
 
-Copied verbatim from `TetherIA/aero-open-firmware`, `main/bin/`, at commit
+Copied verbatim from `chestnut-robotics/aero-open-firmware`, `main/bin/`, at commit
 `46bc858cf07f8c8858887ff11c5362b4078bc869`.
 
 | File | Size (bytes) | SHA-256 |

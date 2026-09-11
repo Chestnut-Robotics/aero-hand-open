@@ -5,10 +5,10 @@ description = "This package provides an interface to control the Aero Hand Open 
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-    { name = "Mohit Yadav", email = "mohityadav@tetheria.ai" },
+    { name = "Mohit Yadav", email = "mohityadav@chestnut.bot" },
 ]
 maintainers = [
-    { name = "Mohit Yadav", email = "mohityadav@tetheria.ai" },
+    { name = "Mohit Yadav", email = "mohityadav@chestnut.bot" },
 ]
 license = { text = "Apache License 2.0" }
 
@@ -17,9 +17,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://tetheria.ai"
+Homepage = "https://chestnut.bot"
 Documentation = "https://docs.tetheria.ai/docs/intro"
-GitHub = "https://github.com/TetherIA/aero-open-sdk"
+GitHub = "https://github.com/chestnut-robotics/aero-hand-open/tree/main/sdk"
 
 [build-system]
 requires = ["uv_build>=0.8.18,<0.9.0"]

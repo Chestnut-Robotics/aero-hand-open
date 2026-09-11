@@ -1,4 +1,4 @@
-# Copyright 2025 TetherIA, Inc.
+# Copyright 2025 Chestnut Robotics, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -33,7 +33,7 @@ setup(
     install_requires=["setuptools"],
     zip_safe=True,
     maintainer="Mohit Yadav",
-    maintainer_email="mohityadav@tetheria.ai",
+    maintainer_email="mohityadav@chestnut.bot",
     description="This package contains the URDF description of the Aero Hand Open robotic hand along with necessary launch and RViz configuration files to visualize it in RViz.",
     license="CC-BY-SA-4.0",
     tests_require=["pytest"],

@@ -1,21 +1,21 @@
 <p align="center">
-  <img alt="Aero Hand Open by TetherIA" src="https://raw.githubusercontent.com/TetherIA/aero-hand-open/main/sdk/assets/logo.png" width="30%">
+  <img alt="Aero Hand Open by Chestnut Robotics" src="https://raw.githubusercontent.com/chestnut-robotics/aero-hand-open/main/sdk/assets/logo.png" width="30%">
   <br/><br/>
 </p>
  
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![TetherIA](https://img.shields.io/badge/Developed%20by-TetherIA.ai-0A66C2)](https://tetheria.ai)
+[![Chestnut Robotics](https://img.shields.io/badge/Developed%20by-Chestnut%20Robotics-0A66C2)](https://chestnut.bot)
 
 </div>
 
 <h2 align="center">
-  <p>Aero Hand Open ROS2 — ROS2 package for for TetherIA's Robotic Hand</p>
+  <p>Aero Hand Open ROS2 — ROS 2 packages for Chestnut Robotics’ Aero Hand Open</p>
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TetherIA/aero-hand-open/main/sdk/assets/banner.jpg" alt="Aero Hand Demo" title="Aero Hand in action" width="70%"/>
+  <img src="https://raw.githubusercontent.com/chestnut-robotics/aero-hand-open/main/sdk/assets/banner.jpg" alt="Aero Hand Demo" title="Aero Hand in action" width="70%"/>
   <p><strong>Aero Hand Open</strong> is a 7-DoF tendon-driven robotic hand for dexterous manipulation and research.</p>
 </div>
 
@@ -47,8 +47,8 @@ If something isn’t working, check:
 ## 💬 Support
 
 If you encounter issues or have feature requests:
-- Open a [GitHub Issue](https://github.com/TetherIA/aero-open-ros2/issues)
-- Contact us at **support@tetheria.ai**
+- Open a [GitHub Issue](https://github.com/chestnut-robotics/aero-open-ros2/issues)
+- Contact us at **support@chestnut.bot**
 
 ---
 
@@ -81,5 +81,5 @@ This project is licensed under the **Apache License 2.0**.
 <div align="center">
 If you find this project useful, please give it a star! ⭐
 
-Built with ❤️ by TetherIA.ai
+Built with ❤️ by Chestnut Robotics
 </div>

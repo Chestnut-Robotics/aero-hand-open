@@ -1,4 +1,4 @@
-// TetherIA - Open Source Hand
+// Chestnut Robotics - Open Source Hand
 // Aero Hand Firmware Source Code
 #include <Arduino.h>
 #include <Wire.h>

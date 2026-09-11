@@ -1,4 +1,4 @@
-# Copyright 2025 TetherIA, Inc.
+# Copyright 2025 Chestnut Robotics, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ setup(
     install_requires=["setuptools", "numpy", "mediapipe", "opencv-python"],
     zip_safe=True,
     maintainer="mohit",
-    maintainer_email="mohityadav@tetheria.ai",
+    maintainer_email="mohityadav@chestnut.bot",
     description="TODO: Package description",
     license="TODO: License declaration",
     tests_require=["pytest"],

@@ -1,6 +1,6 @@
 # 🦾 Aero Hand Open Description — ROS 2 Package
 
-The **Aero Hand Open Description** package provides the 3D model, URDF, and visualization configuration for **TetherIA’s Aero Hand Open** — a 7-DoF tendon-driven robotic hand designed for research and dexterous manipulation.  
+The **Aero Hand Open Description** package provides the 3D model, URDF, and visualization configuration for **Chestnut Robotics’ Aero Hand Open** — a 7-DoF tendon-driven robotic hand designed for research and dexterous manipulation.  
 
 ---
 
@@ -43,5 +43,5 @@ This project is licensed under the **Apache License 2.0**.
 <div align="center">
 If you find this project useful, please give it a star! ⭐  
 
-Built with ❤️ by <a href="https://tetheria.ai">TetherIA.ai</a>
+Built with ❤️ by <a href="https://chestnut.bot">Chestnut Robotics</a>
 </div>

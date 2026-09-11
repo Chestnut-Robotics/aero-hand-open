@@ -4,7 +4,7 @@
   <name>apple_vision_pro_mocap</name>
   <version>0.0.0</version>
   <description>Apple Vision Pro data publisher for Aero Hand teleop.</description>
-  <maintainer email="mohityadav@tetheria.ai">mohit</maintainer>
+  <maintainer email="mohityadav@chestnut.bot">mohit</maintainer>
   <license>Apache-2.0</license>
 
   <depend>rclpy</depend>

@@ -1,4 +1,4 @@
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) © 2025 TetherIA
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) © 2025 Chestnut Robotics
 
 [**Mechanical**](https://docs.tetheria.ai/docs/mechanical)
 

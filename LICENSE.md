@@ -1,6 +1,8 @@
 # Aero Hand Open — Licensing Guide
 
-_Last updated: 2025‑10‑16 — This document is for clarity and does not replace the legal text of the licenses. It is not legal advice._
+_Last updated: 2026‑09‑11 — This document is for clarity and does not replace the legal text of the licenses. It is not legal advice._
+
+> **Name change (2026).** TetherIA, Inc. is now **Chestnut Robotics, Inc.** — the same legal entity under a new name. References to “TetherIA” in earlier copies of these files, in notices you have already reproduced, or in attributions you have already given refer to Chestnut Robotics, Inc. and remain valid. No license terms changed as part of the rename.
 
 ## What’s covered by which license?
 
@@ -16,7 +18,7 @@ _Last updated: 2025‑10‑16 — This document is for clarity and does not repl
 
 To make integration easy and unambiguous:
 
-**If you lawfully purchase physical Aero Hand units from TetherIA or an authorized reseller, TetherIA grants you a non‑exclusive, worldwide, royalty‑free permission to:**
+**If you lawfully purchase physical Aero Hand units from Chestnut Robotics or an authorized reseller, Chestnut Robotics grants you a non‑exclusive, worldwide, royalty‑free permission to:**
 1. **Incorporate those units** (including necessary mounts, wiring, and calibration) into products and services you commercialize;
 2. **Market, distribute, and support** products that include those units; and
 3. **Use and redistribute our firmware/SDK** as permitted by **Apache‑2.0** (including required notices).
@@ -24,17 +26,17 @@ To make integration easy and unambiguous:
 **This permission does _not_ grant:**
 - any right to **manufacture hands or parts from our design files** for commercial purposes;
 - any right to **commercialize derivatives** of our design files (including 3D‑printed spares, kits, or modified hands made from our files);
-- any license to **TetherIA trademarks** beyond fair use, or any **patent rights**.
+- any license to **Chestnut Robotics trademarks** beyond fair use, or any **patent rights**.
 
 ---
 
 ## CC BY‑NC‑SA 4.0 (for design files & docs)
 
-- **Attribution:** credit TetherIA when you share the files or derivatives.
+- **Attribution:** credit Chestnut Robotics when you share the files or derivatives (attributions to TetherIA made before the 2026 rename remain valid).
 - **NonCommercial:** you **may not** use the files (or derivatives) for commercial advantage or monetary compensation.
 - **ShareAlike:** if you share modified files, you must license them under **CC BY‑NC‑SA 4.0** as well.
 
-**Commercial manufacturing from our design files** (including printing parts for sale, producing kits, or selling assembled hands made from our CAD) **requires a Commercial Manufacturing License** from TetherIA (see below).
+**Commercial manufacturing from our design files** (including printing parts for sale, producing kits, or selling assembled hands made from our CAD) **requires a Commercial Manufacturing License** from Chestnut Robotics (see below).
 
 ---
 
@@ -49,7 +51,7 @@ To make integration easy and unambiguous:
 
 | Scenario | Allowed? | Notes |
 |---|:---:|---|
-| You **buy Aero Hands** from TetherIA and ship them in your robots | **✅ Yes** | Covered by **Commercial Integration Permission** |
+| You **buy Aero Hands** from Chestnut Robotics and ship them in your robots | **✅ Yes** | Covered by **Commercial Integration Permission** |
 | You 3D‑print **spare fingers** from our CAD and **sell** those spares | **🚫 No** | Commercial use of CC BY‑NC‑SA files → **license required** |
 | You modify our CAD for a class project and share the files | **✅ Yes** | Non‑commercial + attribution + **ShareAlike** |
 | You use our **SDK/firmware** in your commercial product | **✅ Yes** | Allowed under **Apache‑2.0** (with notices) |
@@ -64,9 +66,9 @@ If you want to **manufacture or print parts** from our design files for commerci
 
 - **Options:** per‑unit royalty, annual site license (with cap), or unlimited license.
 - **Restrictions:** no sublicensing; attribution required; trademark use restricted; no patent rights granted by default.
-- **Contact:** **contact@tetheria.ai**
+- **Contact:** **contact@chestnut.bot**
 
-_TetherIA may decline licenses to entities whose primary business directly competes with TetherIA in robotic dexterous hands._
+_Chestnut Robotics may decline licenses to entities whose primary business directly competes with Chestnut Robotics in robotic dexterous hands._
 
 ---
 
@@ -74,15 +76,15 @@ _TetherIA may decline licenses to entities whose primary business directly compe
 
 Please include:
 
-> **Aero Hand Open — © 2025 TetherIA Inc.**  
+> **Aero Hand Open — © 2025 Chestnut Robotics, Inc. (formerly TetherIA, Inc.)**  
 > Hardware design files & documentation: **CC BY‑NC‑SA 4.0**; firmware & SDK: **Apache‑2.0**.  
-> Source: https://github.com/TetherIA/aero-hand-open
+> Source: https://github.com/chestnut-robotics/aero-hand-open
 
 ---
 
 ## Trademarks, patents, and safety
 
-- This document and the above licenses **do not grant trademark rights**; use “TetherIA” and related marks only as factual references.
+- This document and the above licenses **do not grant trademark rights**; use “Chestnut Robotics”, “Aero Hand” and related marks only as factual references. “TetherIA” is the company’s former name and may be used only as a factual, historical reference.
 - **No patent rights** are granted by this document unless expressly stated in a separate agreement.
 - You’re responsible for compliance with applicable **standards, certifications, and safety** in your products.
 

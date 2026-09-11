@@ -4,7 +4,7 @@
   <name>aero_hand_open_description</name>
   <version>0.0.0</version>
   <description>This package contains the URDF description of the Aero Hand Open robotic hand along with necessary launch and RViz configuration files to visualize it in RViz.</description>
-  <maintainer email="mohityadav@tetheria.ai">Mohit Yadav</maintainer>
+  <maintainer email="mohityadav@chestnut.bot">Mohit Yadav</maintainer>
   <license>CC-BY-SA-4.0</license>
 
   <depend>rclpy</depend>

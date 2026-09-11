@@ -1,6 +1,6 @@
 # 🖐️ Aero Hand Open Retargeting — ROS 2 Package
 
-The **Aero Hand Open Retargeting** package provides a ROS 2-based interface that enables real-time control of **TetherIA’s Aero Hand** using the **Manus gloves**.
+The **Aero Hand Open Retargeting** package provides a ROS 2-based interface that enables real-time control of **Chestnut Robotics’ Aero Hand** using the **Manus gloves**.
 
 ## 🧩 Overview
 
@@ -41,5 +41,5 @@ This project is licensed under the **Apache License 2.0**.
 <div align="center">
 If you find this project useful, please give it a star! ⭐  
 
-Built with ❤️ by <a href="https://tetheria.ai">TetherIA.ai</a>
+Built with ❤️ by <a href="https://chestnut.bot">Chestnut Robotics</a>
 </div>

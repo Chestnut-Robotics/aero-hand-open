@@ -24,7 +24,7 @@ use.
 If you haven't already:
 
 ```bash
-git clone https://github.com/TetherIA/aero-hand-open
+git clone https://github.com/chestnut-robotics/aero-hand-open
 cd aero-hand-open
 cd ros2
 ```
@@ -61,7 +61,7 @@ Notes:
 
 The hardware node (`aero_hand_open`) and the RL package require the Aero Hand SDK.
 Follow the SDK install guide:
-[Aero Hand SDK installation guide](https://github.com/TetherIA/aero-hand-open/tree/main/sdk)
+[Aero Hand SDK installation guide](https://github.com/chestnut-robotics/aero-hand-open/tree/main/sdk)
 
 ## Package-Specific Extras
 

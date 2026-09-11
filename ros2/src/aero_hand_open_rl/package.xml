@@ -4,7 +4,7 @@
   <name>aero_hand_open_rl</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="nanwang@tetheria.ai">Nan Wang</maintainer>
+  <maintainer email="nanwang@chestnut.bot">Nan Wang</maintainer>
   <license>Apache-2.0</license>
 
   <depend>rclpy</depend>

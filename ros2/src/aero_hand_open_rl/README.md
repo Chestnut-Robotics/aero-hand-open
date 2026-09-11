@@ -1,6 +1,6 @@
-# Deploying the Z-Rotation Policy for Tetheria Aero Hand Open
+# Deploying the Z-Rotation Policy for Aero Hand Open
 
-This guide describes how to **deploy a trained Z-rotation policy** using reinforcement learning (RL), based on the task implemented in **[MuJoCo Playground](https://github.com/TetherIA/mujoco_playground_pr)** for the **Tetheria Aero Hand Open**.
+This guide describes how to **deploy a trained Z-rotation policy** using reinforcement learning (RL), based on the task implemented in **[MuJoCo Playground](https://github.com/chestnut-robotics/mujoco_playground_pr)** for the **Aero Hand Open**.
 
 ---
 
@@ -8,8 +8,8 @@ This guide describes how to **deploy a trained Z-rotation policy** using reinfor
 
 The following repositories are required:
 
-1. **[Aero-Hand-Open SDK](https://github.com/TetherIA/aero-hand-open/tree/main/sdk)** — ships with this repository
-2. **[Aero-Open-Firmware](https://github.com/TetherIA/aero-hand-open/tree/main/firmware)** — prebuilt binaries ship with this repository
+1. **[Aero-Hand-Open SDK](https://github.com/chestnut-robotics/aero-hand-open/tree/main/sdk)** — ships with this repository
+2. **[Aero-Open-Firmware](https://github.com/chestnut-robotics/aero-hand-open/tree/main/firmware)** — prebuilt binaries ship with this repository
 3. **[MuJoCo Playground](https://github.com/google-deepmind/mujoco_playground)**
 
 ---
@@ -22,12 +22,12 @@ The SDK lives in this repository under `sdk/`. Clone the repository and install 
 editable mode:
 
 ```bash
-git clone https://github.com/TetherIA/aero-hand-open.git
+git clone https://github.com/chestnut-robotics/aero-hand-open.git
 cd aero-hand-open/sdk
 pip install -e .
 ```
 
-For detailed installation instructions, see the [SDK guide](https://github.com/TetherIA/aero-hand-open/tree/main/sdk).
+For detailed installation instructions, see the [SDK guide](https://github.com/chestnut-robotics/aero-hand-open/tree/main/sdk).
 
 ---
 
@@ -37,7 +37,7 @@ The prebuilt firmware binaries are shipped inside the repository you cloned in s
 there is nothing extra to clone.
 
 The Z-rotation policy was validated against firmware **v0.1.0**, archived at
-[`firmware/main/bin/rl_z_rotation/`](https://github.com/TetherIA/aero-hand-open/tree/main/firmware/main/bin/rl_z_rotation):
+[`firmware/main/bin/rl_z_rotation/`](https://github.com/chestnut-robotics/aero-hand-open/tree/main/firmware/main/bin/rl_z_rotation):
 
 ```text
 firmware/main/bin/rl_z_rotation/firmware_v0.1.0_righthand.bin   # right hand
@@ -46,9 +46,9 @@ firmware/main/bin/rl_z_rotation/firmware_v0.1.0_lefthand.bin    # left hand
 
 > **Note**
 > `rl_z_rotation/` pins the exact build this guide was tested with. The binaries in the
-> parent [`firmware/main/bin/`](https://github.com/TetherIA/aero-hand-open/tree/main/firmware/main/bin)
+> parent [`firmware/main/bin/`](https://github.com/chestnut-robotics/aero-hand-open/tree/main/firmware/main/bin)
 > folder track firmware `main` and are newer even where the filename matches — see the
-> [folder README](https://github.com/TetherIA/aero-hand-open/tree/main/firmware/main/bin/rl_z_rotation)
+> [folder README](https://github.com/chestnut-robotics/aero-hand-open/tree/main/firmware/main/bin/rl_z_rotation)
 > for details.
 
 Note the path to the binary — you will select it from the GUI file browser in

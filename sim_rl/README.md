@@ -1,8 +1,8 @@
-**License:** [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) © 2025 TetherIA
+**License:** [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) © 2025 Chestnut Robotics
 
 ## Submodules
 
-- [**simulation**](https://github.com/TetherIA/aero-open-sim) — Aero Hand Open simulation models
+- [**simulation**](https://github.com/chestnut-robotics/aero-open-sim) — Aero Hand Open simulation models
 - [**mujoco_playground**](https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/_src/manipulation/aero_hand) — Google DeepMind MuJoCo environments which contains buintin RL training support and examples for Aero Hand
 
 ## Install

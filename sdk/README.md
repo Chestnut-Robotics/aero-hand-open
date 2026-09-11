@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Aero Hand Open by TetherIA" src="assets/logo.png" width="30%">
+  <img alt="Aero Hand Open by Chestnut Robotics" src="assets/logo.png" width="30%">
   <br/><br/>
 </p>
 
@@ -9,13 +9,13 @@
 [![PyPI Version](https://img.shields.io/pypi/v/aero-open-sdk)](https://pypi.org/project/aero-open-sdk/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/pypi/status/aero-open-sdk)](https://pypi.org/project/aero-open-sdk/)
-[![Build](https://img.shields.io/github/actions/workflow/status/TetherIA/aero-open-sdk/test.yml?branch=main)](https://github.com/TetherIA/aero-open-sdk/actions)
-[![TetherIA](https://img.shields.io/badge/Developed%20by-TetherIA.ai-0A66C2)](https://tetheria.ai)
+[![Build](https://img.shields.io/github/actions/workflow/status/chestnut-robotics/aero-open-sdk/test.yml?branch=main)](https://github.com/chestnut-robotics/aero-open-sdk/actions)
+[![Chestnut Robotics](https://img.shields.io/badge/Developed%20by-Chestnut%20Robotics-0A66C2)](https://chestnut.bot)
 
 </div>
 
 <h2 align="center">
-  <p>Aero Open SDK — Python Interface for TetherIA's Robotic Hand</p>
+  <p>Aero Open SDK — Python interface for Chestnut Robotics’ Aero Hand Open</p>
 </h2>
 
 <div align="center">
@@ -40,7 +40,7 @@ pip install aero-open-sdk
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/TetherIA/aero-hand-open.git
+   git clone https://github.com/chestnut-robotics/aero-hand-open.git
    ```
 
 2. Navigate to the cloned repository directory:
@@ -212,8 +212,8 @@ sudo chmod 666 /dev/ttyACM0
 ## 💬 Support
 
 If you encounter issues or have feature requests:
-- Open a [GitHub Issue](https://github.com/TetherIA/aero-hand-open/tree/main/sdk/issues)
-- Contact us at **contact@tetheria.ai**
+- Open a [GitHub Issue](https://github.com/chestnut-robotics/aero-hand-open/tree/main/sdk/issues)
+- Contact us at **contact@chestnut.bot**
 
 ---
 
@@ -246,5 +246,5 @@ This project is licensed under the **Apache License 2.0**.
 <div align="center">
 If you find this project useful, please give it a star! ⭐
 
-Built with ❤️ by TetherIA.ai
+Built with ❤️ by Chestnut Robotics
 </div>

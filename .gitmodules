@@ -3,4 +3,4 @@
 	url = https://github.com/google-deepmind/mujoco_playground.git
 [submodule "simulation"]
 	path = sim_rl/simulation
-	url = https://github.com/TetherIA/aero-open-sim.git
+	url = https://github.com/chestnut-robotics/aero-open-sim.git

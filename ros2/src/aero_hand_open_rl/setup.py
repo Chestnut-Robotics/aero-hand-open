@@ -1,4 +1,4 @@
-# Copyright 2025 TetherIA, Inc.
+# Copyright 2025 Chestnut Robotics, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -28,7 +28,7 @@ setup(
     install_requires=["setuptools"],
     zip_safe=True,
     maintainer="Nan Wang",
-    maintainer_email="nanwang@tetheria.ai",
+    maintainer_email="nanwang@chestnut.bot",
     description="TODO: Package description",
     license="Apache-2.0",
     tests_require=["pytest"],

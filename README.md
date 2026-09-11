@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2608.28578"><img src="https://img.shields.io/badge/arXiv-2608.28578-b31b1b?logo=arxiv" alt="arXiv"></a>
-  <a href="https://tetheria.github.io/aero-hand-open/"><img src="https://img.shields.io/badge/project-page-brightgreen" alt="Project Page"></a>
+  <a href="https://chestnut-robotics.github.io/aero-hand-open/"><img src="https://img.shields.io/badge/project-page-brightgreen" alt="Project Page"></a>
   <a href="https://docs.tetheria.ai/"><img src="https://img.shields.io/badge/doc-page-orange" alt="Documentation"></a>
-  <!-- <a href="https://github.com/TetherIA/aero-hand-open/issues"><img src="https://img.shields.io/github/issues/RoboVerseOrg/RoboVerse?color=yellow" alt="Issues"></a> -->
-  <a href="https://github.com/TetherIA/aero-hand-open/discussions"><img src="https://img.shields.io/github/discussions/RoboVerseOrg/RoboVerse?color=blueviolet" alt="Discussions"></a>
+  <!-- <a href="https://github.com/chestnut-robotics/aero-hand-open/issues"><img src="https://img.shields.io/github/issues/chestnut-robotics/aero-hand-open?color=yellow" alt="Issues"></a> -->
+  <a href="https://github.com/chestnut-robotics/aero-hand-open/discussions"><img src="https://img.shields.io/github/discussions/chestnut-robotics/aero-hand-open?color=blueviolet" alt="Discussions"></a>
   <a href="http://discord.gg/ZQKWK7NebQ"><img src="https://img.shields.io/discord/1356345436927168552?logo=discord&color=blue" alt="Discord"></a>
   <a href="https://shop.tetheria.ai/"><img src="https://img.shields.io/badge/Shop-shopping-purple?logo=shopify" alt="Shop"></a>
   <a href="https://www.linkedin.com/company/tetheria/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a>
@@ -13,12 +13,12 @@
   <a href="https://www.youtube.com/@TetherIA_ai"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube" alt="YouTube"></a>
 </p>
 
-Aero Hand Open is an **open-source**, **tendon-driven** robotic hand designed and developed by TetherIA for dexterous manipulation research. Unlike expensive proprietary solutions, this hand focuses on **simplicity**, **reliability**, and **accessibility** by using standard 3D printing and off-the-shelf electronic components.
+Aero Hand Open is an **open-source**, **tendon-driven** robotic hand designed and developed by Chestnut Robotics (formerly TetherIA) for dexterous manipulation research. Unlike expensive proprietary solutions, this hand focuses on **simplicity**, **reliability**, and **accessibility** by using standard 3D printing and off-the-shelf electronic components.
 
 Each joint is optimized for mechanical efficiency through tendon actuation, enabling smooth and natural motion while maintaining a **lightweight** and **compact** design, making it perfect for research labs, educational institutions, and robotics enthusiasts who need an **affordable** yet **capable** manipulation platform.
 
 > **📄 Paper:** [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.28578) (arXiv:2608.28578)   
-> **📚 Learn More:** https://tetheria.github.io/aero-hand-open/   
+> **📚 Learn More:** https://chestnut-robotics.github.io/aero-hand-open/   
 > **🛒 Shop:** https://shop.tetheria.ai/
 
 
@@ -136,7 +136,7 @@ Refer to the [ROS2](https://docs.tetheria.ai/docs/ros2) doc and [`ros2/`](./ros2
 
 ## Simulation
 
-We provide high-fidelity simulation models for the **Tetheria Aero Hand Open**.
+We provide high-fidelity simulation models for the **Aero Hand Open**.
 
 **Currently Supported**
 - **MuJoCo**
@@ -189,23 +189,23 @@ If you use Aero Hand Open in your research, please cite our paper:
 
 [![Commercial integration of purchased units: ALLOWED](https://img.shields.io/badge/Commercial%20integration%20of%20purchased%20units-ALLOWED-brightgreen)](#license--tldr)
 
-- You **can** integrate Aero Hand units you purchase from TetherIA into **commercial robots and products** you sell.
+- You **can** integrate Aero Hand units you purchase from Chestnut Robotics into **commercial robots and products** you sell.
 - **Software (firmware & SDK):** Apache-2.0 — commercial use OK (with notices).
 - **Design files (CAD/STEP/STL, drawings, BOM, docs):** CC BY‑NC‑SA 4.0 — **non‑commercial** only; derivatives must use the same license with attribution.
 - Want to **manufacture/print parts** or **make your own hands** from our design files for commercial use (spares, kits, or clones)? → **Commercial manufacturing license required**.
-- **Commercial licensing & volume buys:** see **LICENSE.md** (or email us at contact@tetheria.ai).
+- **Commercial licensing & volume buys:** see **LICENSE.md** (or email us at contact@chestnut.bot).
 
 See [**LICENSE.md**](LICENSE.md) for definitions, examples, and contact details.
 
   
-© 2025 TetherIA Inc. All rights reserved.
+© 2025 Chestnut Robotics, Inc. (formerly TetherIA, Inc.) All rights reserved.
 
 # Disclaimer
 Aero Hand Open is an open-source research prototype intended for educational and experimental purposes only.
 
 While every effort has been made to ensure build accuracy and functionality, this design has not been validated for prolonged or heavy-duty use.
 
-Users should exercise caution when assembling, operating, or modifying this device. TetherIA Inc. and its contributors shall not be held liable for any personal injury, property damage, or other losses resulting from the use, misuse, or modification of this design. By using this project, you acknowledge and accept full responsibility for any associated risks.
+Users should exercise caution when assembling, operating, or modifying this device. Chestnut Robotics, Inc. and its contributors shall not be held liable for any personal injury, property damage, or other losses resulting from the use, misuse, or modification of this design. By using this project, you acknowledge and accept full responsibility for any associated risks.
 
 Important Notes:
 - 3D-printed parts may exhibit tolerance variations depending on printer and material settings.
@@ -235,23 +235,23 @@ More questions please refer to our [online documentation](https://docs.tetheria.
 ## Contact
 For questions, feedback, or collaboration inquiries, please reach out to us through the following channels:
 
- 🛒 Shop: [Aero Hand Open – TetherIA Store](https://shop.tetheria.ai/) 
+ 🛒 Shop: [Aero Hand Open – Chestnut Robotics Store](https://shop.tetheria.ai/) 
 
- 📚 Docs: [TetherIA Docs](https://docs.tetheria.ai/)
+ 📚 Docs: [Aero Hand Open Docs](https://docs.tetheria.ai/)
 
- 📧 Email: support@tetheria.ai
+ 📧 Email: support@chestnut.bot
 
- 🌐 Website: [tetheria.ai](http://tetheria.ai)
+ 🌐 Website: [chestnut.bot](https://chestnut.bot)
 
- 🐙 GitHub: [TetherIA](https://github.com/TetherIA)
+ 🐙 GitHub: [chestnut-robotics](https://github.com/chestnut-robotics)
 
- 💬 Discord: [TetherIA Discord Channel](http://discord.gg/ZQKWK7NebQ)
+ 💬 Discord: [Chestnut Robotics Discord](http://discord.gg/ZQKWK7NebQ)
 
-  🐦 X/Twitter: [TetherIA X/Twitter Account](https://x.com/TetherIA_ai)
+  🐦 X/Twitter: [Chestnut Robotics on X](https://x.com/TetherIA_ai)
 
-  📺 YouTube: [TetherIA YouTube Account](https://www.youtube.com/@TetherIA_ai)
+  📺 YouTube: [Chestnut Robotics on YouTube](https://www.youtube.com/@TetherIA_ai)
 
-  💼 LinkedIn: [TetherIA LinkedIn Account](https://www.linkedin.com/company/tetheria/)
+  💼 LinkedIn: [Chestnut Robotics on LinkedIn](https://www.linkedin.com/company/tetheria/)
 
 
 We welcome discussions, contributions, and new ideas from the community.

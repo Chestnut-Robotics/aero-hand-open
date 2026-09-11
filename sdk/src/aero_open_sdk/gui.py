@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright 2025 TetherIA, Inc.
+# Copyright 2025 Chestnut Robotics, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,9 +14,9 @@
 # limitations under the License.
 
 """
-firmware_gui.py - Minimal GUI for TetherIA Aero Hand (16-byte serial protocol)
+firmware_gui.py - Minimal GUI for Aero Hand (16-byte serial protocol)
 
-A simple Tkinter GUI to control the TetherIA Aero Hand via serial port:
+A simple Tkinter GUI to control the Aero Hand via serial port:
 - "Start Homing": sends a HOMING command 16 byte packet to the ESP.
 - "Set-ID Servo": asks for an integer ID (0..250) and sends a REID command + the integer.
 - "Trim Servo": asks for the servo id and the degrees +360/-360.
@@ -72,7 +72,7 @@ SLIDER_LABELS = [
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("TetherIA – Aero Hand Open")
+        self.title("Chestnut Robotics – Aero Hand Open")
         self.geometry("900x620")
         self.minsize(860, 560)
         if sys.platform.startswith("win"):

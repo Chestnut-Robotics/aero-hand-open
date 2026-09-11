@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
 ;
 [subrepo]
-	remote = https://github.com/TetherIA/aero-open-hardware.git
+	remote = https://github.com/chestnut-robotics/aero-open-hardware.git
 	branch = main
 	commit = 6c2e7f19171515059cc38f69c3917d5c59a82ba1
 	parent = 9d4b5a4e6bbee2ae99a0528f4fad05b891dda02b
