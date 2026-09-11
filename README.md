@@ -9,7 +9,7 @@
   <a href="http://discord.gg/ZQKWK7NebQ"><img src="https://img.shields.io/discord/1356345436927168552?logo=discord&color=blue" alt="Discord"></a>
   <a href="https://shop.tetheria.ai/"><img src="https://img.shields.io/badge/Shop-shopping-purple?logo=shopify" alt="Shop"></a>
   <a href="https://www.linkedin.com/company/tetheria/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://x.com/TetherIA_ai"><img src="https://img.shields.io/badge/X-Follow-black?logo=x" alt="X"></a>
+  <a href="https://x.com/ChestnutRobotic"><img src="https://img.shields.io/badge/X-Follow-black?logo=x" alt="X"></a>
   <a href="https://www.youtube.com/@TetherIA_ai"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube" alt="YouTube"></a>
 </p>
 
@@ -247,7 +247,7 @@ For questions, feedback, or collaboration inquiries, please reach out to us thro
 
  💬 Discord: [Chestnut Robotics Discord](http://discord.gg/ZQKWK7NebQ)
 
-  🐦 X/Twitter: [Chestnut Robotics on X](https://x.com/TetherIA_ai)
+  🐦 X/Twitter: [Chestnut Robotics on X](https://x.com/ChestnutRobotic)
 
   📺 YouTube: [Chestnut Robotics on YouTube](https://www.youtube.com/@TetherIA_ai)
 
